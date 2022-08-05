@@ -48,7 +48,7 @@ Users should be able to:
 
 I learned how to make a hover button
 
-To see how you can add code snippets, see below:
+To see how you can make a hover button
 
 ```css
 button:hover{
@@ -59,7 +59,7 @@ button:hover{
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [Animated Buttons](https://www.w3schools.com/howto/howto_css_animate_buttons.asp) to learn more.
+If you want more help with with buttons, I recommend checking out [Animated Buttons](https://www.w3schools.com/howto/howto_css_animate_buttons.asp) to learn more.
 
 
 ### Continued development
