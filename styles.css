@@ -2,7 +2,7 @@ body{
     background-color: hsl(0, 0%, 95%);
 }
 
-@media screen and (min-width: 701px){
+@media screen and (min-width: 451px){
     .page{
         display: flex;
         color: hsla(0, 0%, 100%, 0.75);
@@ -81,7 +81,7 @@ body{
     }
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 450px){
 .page{
     width: 200px;
     margin: auto;
