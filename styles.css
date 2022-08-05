@@ -60,6 +60,7 @@ body{
       font-size: 15px;
       font-family: 'Montserrat', sans-serif;
       background-color: hsl(0, 0%, 95%); 
+      cursor: pointer;
     }
 
     #one button:hover, #two button:hover, #three button:hover{
@@ -125,6 +126,7 @@ button{
     border: 0px;
     font-size: 10px;
     background-color: hsl(0, 0%, 95%);
+    cursor: pointer
 }
 
 #one button:hover, #two button:hover, #three button:hover{
